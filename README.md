@@ -10,8 +10,8 @@ This C++ tool generates a QR code based on input data and prints it to the termi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/domso/qr-code-generator.git
-   cd qr-code-generator
+   git clone https://github.com/domso/qr_code_generator.git
+   cd qr_code_generator
    ```
 
 2. Build the project using CMake:
